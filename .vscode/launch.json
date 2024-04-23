@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/Cpp/Leetcode/已完成",
-      "program": "d:/Cpp/Leetcode/已完成/build/Debug/outDebug",
+      "cwd": "d:/Cpp/Leetcode/已完成/1052.爱生气的书店老板",
+      "program": "d:/Cpp/Leetcode/已完成/1052.爱生气的书店老板/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
