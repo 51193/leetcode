@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/Cpp/Leetcode/已完成/2385.感染二叉树需要的总时间",
-      "program": "d:/Cpp/Leetcode/已完成/2385.感染二叉树需要的总时间/build/Debug/outDebug",
+      "cwd": "d:/Cpp/Leetcode/已完成/1146.快照数组",
+      "program": "d:/Cpp/Leetcode/已完成/1146.快照数组/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
