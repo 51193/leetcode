@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/Cpp/Leetcode/已完成/1146.快照数组",
-      "program": "d:/Cpp/Leetcode/已完成/1146.快照数组/build/Debug/outDebug",
+      "cwd": "d:/Cpp/Leetcode/已完成/2639.查询网格图中每一列的宽度",
+      "program": "d:/Cpp/Leetcode/已完成/2639.查询网格图中每一列的宽度/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
