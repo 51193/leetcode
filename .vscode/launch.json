@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/Cpp/Leetcode/2462.雇佣K位工人的总代价",
-      "program": "d:/Cpp/Leetcode/2462.雇佣K位工人的总代价/build/Debug/outDebug",
+      "cwd": "d:/Cpp/Leetcode/已完成/2462.雇佣K位工人的总代价",
+      "program": "d:/Cpp/Leetcode/已完成/2462.雇佣K位工人的总代价/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
