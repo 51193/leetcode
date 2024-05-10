@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/Cpp/Leetcode/已完成/1491.去掉最低工资和最高工资后的工资平均值",
-      "program": "d:/Cpp/Leetcode/已完成/1491.去掉最低工资和最高工资后的工资平均值/build/Debug/outDebug",
+      "cwd": "d:/Cpp/Leetcode/已完成/2960.统计已测试设备",
+      "program": "d:/Cpp/Leetcode/已完成/2960.统计已测试设备/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
